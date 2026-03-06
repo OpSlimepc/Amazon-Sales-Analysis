@@ -1,6 +1,16 @@
 # Amazon Sales Dashboard Analysis | Revenue & Product Performance | Global Amazon Sales Data | From Raw Transactions to Actionable Business Insights
 
 
+## Table of Contents
+
+-  [Project Overview](#project-overview)
+-  [Tools & Technologies](#tools--technologies)
+-  [Dataset Overview](#dataset-overview)
+-  [Data Preparation](#data-preparation)
+-  [Excel Dashboard](#excel-dashboard)
+-  [Key Insights](#key-insights)
+-  [Recommendations](#recommendations)
+
 ---
 
 ### Project Overview
