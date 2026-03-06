@@ -69,9 +69,9 @@ The dashboard includes:
 1. Continue Strategic Discount Campaigns
    - Since discounted items drive a large portion of revenue, maintaining targeted promotional campaigns can help sustain high sales volumes.
 2. Focus Marketing Efforts on High-Performing Regions
-  - Regions like the Middle East and North America generate the most revenue, making them strong candidates for expanded marketing and inventory allocation.
+   - Regions like the Middle East and North America generate the most revenue, making them strong candidates for expanded marketing and inventory allocation.
 3. Capitalize on strong early-year demand
-  - Since revenue peaks in January, businesses should launch major promotions, product releases, and marketing campaigns early in the year to maximize this surge in demand.
+   - Since revenue peaks in January, businesses should launch major promotions, product releases, and marketing campaigns early in the year to maximize this surge in demand.
 
 ---
 
